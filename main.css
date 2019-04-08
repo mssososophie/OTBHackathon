@@ -1,0 +1,49 @@
+h1 {
+  color: #1E347E
+}
+
+h3 {
+  color: #00A4DD
+}
+
+p {
+  color: #1E347E
+}
+
+.mx-auto {
+  height: 20px
+}
+
+footer {
+  display: flex;
+  align-content: center
+}
+
+.bigClass {
+  position: relative;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.bigClass h1, .bigClass h2, .bigClass h3{
+  text-align: center
+}
+
+.text-right {
+  text-align: right;
+  color: #FEDBC0
+}
+
+.card {
+  margin: 10px;
+  padding: 5px
+}
+
+img {
+  display: flex;
+  align-content: center
+}
+
+#bucketContainer {
+  text-align: center
+}
